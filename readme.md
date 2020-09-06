@@ -1,3 +1,6 @@
+---
+title: Mohamed Kassem Practice Project
+---
 ## Labs screenshots proof of completion:
 
 1. Console and Cloud Shell
