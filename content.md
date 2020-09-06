@@ -1,7 +1,3 @@
-```
-<meta name="robots" content="noindex">
-```
-
 ## Labs screenshots proof of completion:
 
 
@@ -19,10 +15,10 @@
 
 
 4. Implement Private Google Access and Cloud NAT
-![VPC-Networking](./labs_screenshots/VPC-Networking.png)
+![Implement-Private-Google-Access-and-Cloud-NAT](./labs_screenshots/Implement-Private-Google-Access-and-Cloud-NAT.png)
 
 5. Creating Virtual Machines
-![VPC-Networking](./labs_screenshots/VPC-Networking.png)
+![Creating-Virtual-Machines](./labs_screenshots/Creating-Virtual-Machines.png)
 
 6. Working with Virtual Machines
-![VPC-Networking](./labs_screenshots/VPC-Networking.png)
+![Working-with-Virtual-Machines](./labs_screenshots/Working-with-Virtual-Machines.png)
