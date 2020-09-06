@@ -21,7 +21,6 @@ title: Mohamed Kassem Practice Project
 
 6. Working with Virtual Machines
 ![Working-with-Virtual-Machines](./labs_screenshots/Working-with-Virtual-Machines.png)
-<<<<<<< HEAD
 
 7. Cloud IAM
 ![Cloud-IAM](./labs_screenshots/Cloud-IAM.png)
