@@ -53,4 +53,3 @@ title: Mohamed Kassem Practice Project
 
 1. [Google Cloud Fundamentals: Getting Started with Compute Engine](./labs_cli/Google-Cloud-Fundamentals-Getting-Started-with-Compute-Engine.md)
 2. [Google Cloud Fundamentals: Getting Started with Cloud Storage and Cloud SQL](./labs_cli/Google-Cloud-Fundamentals-Getting-Started-with-Cloud-Storage-and-Cloud-SQL.md)
-3. [Google Cloud Fundamentals: Getting Started with GKE](./labs_cli/Google-Cloud-Fundamentals-Getting-Started-with-GKE.md)
