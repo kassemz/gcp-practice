@@ -1,8 +1,6 @@
-# Google Cloud Fundamentals: Getting Started with Compute Engine
+## Google Cloud Fundamentals: Getting Started with Compute Engine
 
-## Create a Compute Engine virtual machine using the Google Cloud Platform (GCP) Console.
-
-
+### Create a Compute Engine virtual machine using the Google Cloud Platform (GCP) Console.
 
 ```bash
 #setting my project
@@ -30,14 +28,9 @@ gcloud compute firewall-rules create default-allow-http \
 --source-ranges=0.0.0.0/0 \
 --target-tags=http-server
 
-
 ```
 
-
-
-## Create a Compute Engine virtual machine using the gcloud command-line interface.
-
-
+### Create a Compute Engine virtual machine using the gcloud command-line interface.
 
 ```bash
 #find the zone assigned
@@ -59,11 +52,7 @@ gcloud compute instances create my-vm-2 \
 
 ```
 
-
-
-## Connect between the two instances.
-
-
+### Connect between the two instances.
 
 **Activate Cloud Shell from the top menu bar.**
 
@@ -94,8 +83,4 @@ gcloud compute ssh my-vm-2
 
 curl http://my-vm-1/
 
-
-
-
 ```
-
