@@ -2,6 +2,8 @@
 title: Mohamed Kassem Practice Project
 ---
 
+[TOC]
+
 ## Labs screenshots proof of completion:
 
 1. Console and Cloud Shell
@@ -48,3 +50,9 @@ title: Mohamed Kassem Practice Project
 
 15. Google Cloud Fundamentals: Getting Started with GKE
 ![Google Cloud Fundamentals: Getting Started with GKE](./labs_screenshots/Google-Cloud-Fundamentals-Getting-Started-with-GKE.png)
+
+## Translated labs to command line instructions:
+
+1. [Google Cloud Fundamentals: Getting Started with Compute Engine](./labs_cli/Google-Cloud-Fundamentals-Getting-Started-with-Compute-Engine.md)
+2. [Google Cloud Fundamentals: Getting Started with Cloud Storage and Cloud SQL](./labs_cli/Google-Cloud-Fundamentals-Getting-Started-with-Cloud-Storage-and-Cloud-SQL.md)
+3. [Google Cloud Fundamentals: Getting Started with GKE](./labs_cli/Google-Cloud-Fundamentals-Getting-Started-with-GKE.md)
